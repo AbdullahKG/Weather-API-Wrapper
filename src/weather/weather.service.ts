@@ -36,6 +36,4 @@ export class WeatherService {
       description: weather.description,
     });
   }
-
-  // for forcast
 }
